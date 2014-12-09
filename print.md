@@ -62,3 +62,6 @@ Hi this is not mono space iiiii hhhhh
 > Block quotes are
 > written like so.
 
+Code (`inline code`):
+
+    print “Code is just indented four spaces”;
